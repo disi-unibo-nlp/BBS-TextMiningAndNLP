@@ -1,0 +1,25 @@
+## Slides and labs
+
+[01 Text Processing, Representation, Similarity, Inforamtion Retrieval and Evalutation Methods](https://www.dropbox.com/s/vnb8a37t458ks9x/1_text_processing_text_mining_unit_master_in_data_science.pdf?dl=0)
+
+[02 Sentiment Analysis & Opinion Mining with Unsupervised and Supervised Approaches](https://www.dropbox.com/s/zu0pfnvlqon94s7/3_opinion_mining_text_mining_unit_master_in_data_science.pdf?dl=0)
+
+[03 Lab: Opinion Mining and Sentiment Analysis with Unsupervised and Supervised Approaches](https://github.com/unibodatascience/BBS-DeepTextMining/blob/c871ad61a9e3f86fe9d272865e2a0740045c8fc0/05%20-%20Opinion%20Mining%20&%20Sentiment%20Analysis/1_opinion_lab.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/unibodatascience/BBS-DeepTextMining/blob/c871ad61a9e3f86fe9d272865e2a0740045c8fc0/05%20-%20Opinion%20Mining%20&%20Sentiment%20Analysis/1_opinion_lab.ipynb)
+   
+[03 Lab Solution: Opinion Mining and Sentiment Analysis with Unsupervised and Supervised Approaches](https://github.com/unibodatascience/BBS-DeepTextMining/blob/c871ad61a9e3f86fe9d272865e2a0740045c8fc0/05%20-%20Opinion%20Mining%20&%20Sentiment%20Analysis/1_opinion_lab_with_solutions.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/unibodatascience/BBS-DeepTextMining/blob/c871ad61a9e3f86fe9d272865e2a0740045c8fc0/05%20-%20Opinion%20Mining%20&%20Sentiment%20Analysis/1_opinion_lab_with_solutions.ipynb)
+
+[04 Lab: Opinion Mining with Text Classification in Team - Work Exercises 1](https://github.com/unibodatascience/BBS-DeepTextMining/blob/4c6994d9a13c702681a5054af6c60c67bb94fb49/06%20-%20Opinion%20Mining%20Lab%20Exercises/Teamwork%201/text_mining_exercises.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/unibodatascience/BBS-DeepTextMining/blob/4c6994d9a13c702681a5054af6c60c67bb94fb49/06%20-%20Opinion%20Mining%20Lab%20Exercises/Teamwork%201/text_mining_exercises.ipynb)
+
+[04 Lab Solution: Opinion Mining with Text Classification in Team Work - Exercises 1](https://github.com/unibodatascience/BBS-DeepTextMining/blob/4c6994d9a13c702681a5054af6c60c67bb94fb49/06%20-%20Opinion%20Mining%20Lab%20Exercises/Teamwork%201/text_mining_exercises_solution.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/unibodatascience/BBS-DeepTextMining/blob/4c6994d9a13c702681a5054af6c60c67bb94fb49/06%20-%20Opinion%20Mining%20Lab%20Exercises/Teamwork%201/text_mining_exercises_solution.ipynb)
+
+[05 Deep Learning for Natural Language Processing (from scratch)](https://www.dropbox.com/s/lgltfi1m8n7m694/4_2021_22_deep_learning_in_nlp_part_1.pdf?dl=0)
+
+[06 Lab: Text Mining in Team - Work Exercises 2](https://github.com/unibodatascience/BBS-DeepTextMining/blob/4c6994d9a13c702681a5054af6c60c67bb94fb49/06%20-%20Opinion%20Mining%20Lab%20Exercises/Teamwork%202/2a_opinion_lab_in_teams.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/unibodatascience/BBS-DeepTextMining/blob/4c6994d9a13c702681a5054af6c60c67bb94fb49/06%20-%20Opinion%20Mining%20Lab%20Exercises/Teamwork%202/2a_opinion_lab_in_teams.ipynb)
+
+[06 Lab Solution: Text Mining in Team Work Exercises 2](https://github.com/unibodatascience/BBS-DeepTextMining/blob/4c6994d9a13c702681a5054af6c60c67bb94fb49/06%20-%20Opinion%20Mining%20Lab%20Exercises/Teamwork%202/2b_opinion_lab_in_teams_solutions.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/unibodatascience/BBS-DeepTextMining/blob/4c6994d9a13c702681a5054af6c60c67bb94fb49/06%20-%20Opinion%20Mining%20Lab%20Exercises/Teamwork%202/2b_opinion_lab_in_teams_solutions.ipynb)
+
+[07 Lab: Deep Learning Techniques](https://github.com/unibodatascience/BBS-DeepTextMining/blob/4c6994d9a13c702681a5054af6c60c67bb94fb49/08%20-%20Opinion%20Mining%20&%20Sentiment%20Analysis%20Deep%20Learning%20Techniques/code/Opinion_Mining_&_Sentiment_Analysis_Deep_Learning_Techniques_Bologna_Business_School.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/unibodatascience/BBS-DeepTextMining/blob/4c6994d9a13c702681a5054af6c60c67bb94fb49/08%20-%20Opinion%20Mining%20&%20Sentiment%20Analysis%20Deep%20Learning%20Techniques/code/Opinion_Mining_&_Sentiment_Analysis_Deep_Learning_Techniques_Bologna_Business_School.ipynb)
+
+[08 Multi-label Text Classification, kNN for Text Mining, Details on Bayesian Text Classification Models, Classification Accuracy Confidence Interval Evalutation and Comparison Methods of Classification Models](https://www.dropbox.com/s/cnesplqrt6ab6xf/6_text_classification_and_evaluation_data_science_master.pdf?dl=0)
+
+[09 Accuracy Confidence Interval: Calculation](https://github.com/unibodatascience/BBS-DeepTextMining/blob/d04190ad8e4d88f1314598f1bc35f4cf5b4151eb/ACCURACY%20CONFIDENCE%20INTERVAL%20-%20Calculation.xlsx)
